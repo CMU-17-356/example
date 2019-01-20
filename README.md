@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/CMU-17-356/example.svg?branch=master)](https://travis-ci.com/CMU-17-356/example)
+
 # @loopback/example-todo-list
 
 This is an extended tutorial that builds on top of `@loopback/example-todo`.
